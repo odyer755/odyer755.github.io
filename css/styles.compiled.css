@@ -423,6 +423,7 @@ h1 {
       height: 100%;
       width: 0;
       transition: width 0.2s;
+      max-width: 90%;
       /*Code to execute 1200px*/ }
       @media only screen and (max-width: 75em) {
         .about__skills__score {
