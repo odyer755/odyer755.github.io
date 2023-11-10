@@ -451,6 +451,9 @@ h1 {
             @media only screen and (max-width: 1440px) {
 right: -75px;
 }
+                  @media only screen and (max-width: 1200px) {
+right: -68px;
+}
       @media only screen and (max-width: 900px) {
 right: -60px;
 }
