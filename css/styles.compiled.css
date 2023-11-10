@@ -448,7 +448,7 @@ h1 {
       -ms-flex-align: center;
       align-items: center;
             @media only screen and (max-width: 1440px) {
-right: -30px;
+right: -75px;
 }
       @media only screen and (max-width: 900px) {
 right: -60px;
