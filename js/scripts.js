@@ -91,32 +91,32 @@ const projectsObj = [{
 const knowledgeAreas = [{
     id: 1,
     area: 'HTML',
-    score: 90
+    score: 99
   },
   {
     id: 2,
     area: 'CSS',
-    score: 90
+    score: 99
   },
   {
     id: 3,
     area: 'SASS',
-    score: 85
+    score: 99
   },
   {
     id: 4,
     area: 'jQuery',
-    score: 70
+    score: 90
   },
   {
     id: 5,
     area: 'JavaScript',
-    score: 75
+    score: 90
   },
   {
     id: 6,
     area: 'React',
-    score: 50
+    score: 85
   },
   {
     id: 7,
@@ -127,6 +127,16 @@ const knowledgeAreas = [{
     id: 8,
     area: 'Smarty PHP',
     score: 65
+  },
+  {
+    id: 9,
+    area: 'Vue (2, 3)',
+    score: 75
+  },
+  {
+    id: 10,
+    area: 'Nuxt (2, 3)',
+    score: 68
   }
 ]
 
