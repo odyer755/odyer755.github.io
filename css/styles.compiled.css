@@ -387,7 +387,7 @@ h1 {
           padding: 2rem; } }
       @media only screen and (max-width: 37.5em) {
         .about__skills--skills {
-          width: 92%; } }
+          width: 80%; } }
     .about__skills__skill {
       display: inline-block;
       position: absolute;
@@ -453,7 +453,7 @@ right: -60px;
       @media only screen and (max-width: 37.5em) {
         .about__skills__final {
           font-size: 1.8rem; 
-        right: -55px;
+        right: -57px;
         } }
 
 .fas,
