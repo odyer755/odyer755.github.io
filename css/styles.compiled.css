@@ -383,11 +383,11 @@ h1 {
       /*Code to execute, 600px*/ }
       @media only screen and (max-width: 75em) {
         .about__skills--skills {
-          width: 100%;
+          width: 95%;
           padding: 2rem; } }
       @media only screen and (max-width: 37.5em) {
         .about__skills--skills {
-          width: 80%; } }
+          width: 92%; } }
     .about__skills__skill {
       display: inline-block;
       position: absolute;
@@ -426,12 +426,13 @@ h1 {
       /*Code to execute 1200px*/ }
       @media only screen and (max-width: 75em) {
         .about__skills__score {
-          left: 8rem; } }
+          left: 8rem; 
+        max-width: 88%; } }
     .about__skills__final {
       background: #d9d9d9;
       position: absolute;
       top: 0;
-      right: -68px;
+      right: -79px;
       height: 100%;
       padding: 10px;
       width: 8rem;
@@ -446,6 +447,9 @@ h1 {
       -webkit-box-align: center;
       -ms-flex-align: center;
       align-items: center;
+            @media only screen and (max-width: 1440px) {
+right: -30px;
+}
       @media only screen and (max-width: 900px) {
 right: -60px;
 }
